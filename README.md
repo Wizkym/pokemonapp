@@ -1,1 +1,1 @@
-Simple Pokemon App leveraging the pokeApi [pokeApi](https://pokeapi.co/)
+Simple Pokemon App leveraging the [pokeApi](https://pokeapi.co/)
