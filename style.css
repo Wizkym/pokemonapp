@@ -1,0 +1,27 @@
+html {
+    margin: 25px;
+    font-family: Helvetica, sans-serif;
+}
+
+h1, h5 {
+    text-align: center;
+}
+
+.card-deck {
+    margin-bottom: 15px;
+}
+
+.modal-desc {
+    margin-top: 10%;
+}
+
+.modal-img{
+    width: 100%;
+    max-height: 30vh;
+}
+
+#details {
+    border: 1px solid gray;
+    border-radius: 2%;
+    padding: 10px 20px;
+}
